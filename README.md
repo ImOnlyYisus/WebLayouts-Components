@@ -17,16 +17,16 @@ My idea was to grow up my abilities of webs layouts and also have components to 
   ![Card-github-repo-img](./img-repos/card-github-repo.gif)
   <br>
   
-  [Go to repo...]("https://github.com/yisusturtle/Css-Components-Styled/tree/master/card-github-repo")
+  [Go to repo...](https://github.com/yisusturtle/Css-Components-Styled/tree/master/card-github-repo)
 * ### Isometric Menu
   ![Card-github-repo-img](./img-repos/isomtric-menu.gif)
   <br>
   
-  [Go to repo...]("https://github.com/yisusturtle/Css-Components-Styled/tree/master/isometric-menu")
+  [Go to repo...](https://github.com/yisusturtle/Css-Components-Styled/tree/master/isometric-menu)
 * ### Reto #1 ManzDev
   ![Card-github-repo-img](./img-repos/reto1-manzdev.png)
   <br>
   
-  [Go to repo...]("https://github.com/yisusturtle/Css-Components-Styled/tree/master/reto1-manzdev")
+  [Go to repo...](https://github.com/yisusturtle/Css-Components-Styled/tree/master/reto1-manzdev)
   
 

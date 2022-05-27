@@ -9,9 +9,8 @@ My idea was to grow up my abilities of webs layouts and also have components to 
 
 
 <hr>
-<br>
 
-### Componentes
+### Components
 
 * ### Card github repo
   ![Card-github-repo-img](./img-repos/card-github-repo.gif)

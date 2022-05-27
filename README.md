@@ -1,6 +1,6 @@
 # Components design with HTML,CSS & JS
 I proposed to do one component each day, and this is the result. 🤙
-My idea was to grow up my abilities of webs layouts and also have components to reuse on another projects.
+My idea was to grow up my abilities of webs layouts and also have components to reuse on other projects.
 
 ### List of components
 * [Card github repo](#card-github-repo-go)

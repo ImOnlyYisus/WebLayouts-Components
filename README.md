@@ -13,10 +13,20 @@ My idea was to grow up my abilities of webs layouts and also have components to 
 
 ### Componentes
 
-* #### Card github repo [<span style="font-size:15px">Go👉🏻...<span>]("[https://github.com/yisusturtle](https://github.com/yisusturtle/Css-Components-Styled/tree/master/card-github-repo)")
+* ### Card github repo
   ![Card-github-repo-img](./img-repos/card-github-repo.gif)
-* #### Isometric Menu [<span style="font-size:15px">Go👉🏻...<span>]("[https://github.com/yisusturtle](https://github.com/yisusturtle/Css-Components-Styled/tree/master/isometric-menu)")
+  <br>
+  
+  [Go to repo...]("https://github.com/yisusturtle/Css-Components-Styled/tree/master/card-github-repo")
+* ### Isometric Menu
   ![Card-github-repo-img](./img-repos/isomtric-menu.gif)
-* #### Reto #1 ManzDev [<span style="font-size:15px">Go👉🏻...<span>]("[https://github.com/yisusturtle](https://github.com/yisusturtle/Css-Components-Styled/tree/master/reto1-manzdev)")
+  <br>
+  
+  [Go to repo...]("https://github.com/yisusturtle/Css-Components-Styled/tree/master/isometric-menu")
+* ### Reto #1 ManzDev
   ![Card-github-repo-img](./img-repos/reto1-manzdev.png)
+  <br>
+  
+  [Go to repo...]("https://github.com/yisusturtle/Css-Components-Styled/tree/master/reto1-manzdev")
+  
 

@@ -6,8 +6,8 @@ My idea was to grow up my abilities of webs layouts and also have components to 
 * [Card github repo](#card-github-repo-go)
 * [Isomtric menu](#isometric-menu-go)
 * [Reto #1 ManzDev](#reto-1-manzdev-go)
-* [Credit card form](#credit-card-form-go)
-* [Custom team presentation](#custom-team-presentation-go)
+* [Credit card form](#credit-card-form)
+* [Custom team presentation](#custom-team-presentation)
 
 
 <hr>

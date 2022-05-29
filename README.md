@@ -6,6 +6,8 @@ My idea was to grow up my abilities of webs layouts and also have components to 
 * [Card github repo](#card-github-repo-go)
 * [Isomtric menu](#isometric-menu-go)
 * [Reto #1 ManzDev](#reto-1-manzdev-go)
+* [Credit card form](#credit-card-form-go)
+* [Custom team presentation](#custom-team-presentation-go)
 
 
 <hr>
@@ -16,16 +18,28 @@ My idea was to grow up my abilities of webs layouts and also have components to 
   ![Card-github-repo-img](./img-repos/card-github-repo.gif)
   <br>
   
-  [Go to repo...](https://github.com/yisusturtle/Css-Components-Styled/tree/master/card-github-repo)
+  [Go to repo...](https://github.com/yisusturtle/Css-Components-Styled/tree/master/components/card-github-repo)
 * ### Isometric Menu
-  ![Card-github-repo-img](./img-repos/isomtric-menu.gif)
+  ![Isometric-menu-img](./img-repos/isomtric-menu.gif)
   <br>
   
-  [Go to repo...](https://github.com/yisusturtle/Css-Components-Styled/tree/master/isometric-menu)
+  [Go to repo...](https://github.com/yisusturtle/Css-Components-Styled/tree/master/components/isometric-menu)
 * ### Reto #1 ManzDev
-  ![Card-github-repo-img](./img-repos/reto1-manzdev.png)
+  ![Reto1-ManzDev-img](./img-repos/reto1-manzdev.png)
   <br>
   
-  [Go to repo...](https://github.com/yisusturtle/Css-Components-Styled/tree/master/reto1-manzdev)
+  [Go to repo...](https://github.com/yisusturtle/Css-Components-Styled/tree/master/components/reto1-manzdev)
+  
+* ### Credit card form
+  ![Credit-card-form-img](./img-repos/credit-card-form.gif)
+  <br>
+  
+  [Go to repo...](https://github.com/yisusturtle/Css-Components-Styled/tree/master/components/credit-card-form)
+
+* ### Custom team presentation
+  ![Custom-team-presentation-img](./img-repos/custom-presentation-team.gif)
+  <br>
+  
+  [Go to repo...](https://github.com/yisusturtle/Css-Components-Styled/tree/master/components/custom-team-presentation)
   
 

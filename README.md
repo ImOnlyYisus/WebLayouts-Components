@@ -1,6 +1,6 @@
 # Components design with HTML,CSS & JS
 I proposed to do one component each day, and this is the result. 🤙
-My idea was to grow up my abilities of webs layouts and also have components to reuse on other projects.
+My idea was to grow up my skills of webs layouts and also have components to reuse on other projects.
 
 ### List of components
 * [Card github repo](#card-github-repo-go)
@@ -8,6 +8,7 @@ My idea was to grow up my abilities of webs layouts and also have components to 
 * [Reto #1 ManzDev](#reto-1-manzdev-go)
 * [Credit card form](#credit-card-form)
 * [Custom team presentation](#custom-team-presentation)
+* [Social media icons effect]()
 
 
 <hr>
@@ -41,5 +42,11 @@ My idea was to grow up my abilities of webs layouts and also have components to 
   <br>
   
   [Go to repo...](https://github.com/yisusturtle/Css-Components-Styled/tree/master/components/custom-team-presentation)
+
+* ### Social media icons
+  ![Custom-team-presentation-img](./img-repos/social-media-icons.gif)
+  <br>
+  
+  [Go to repo...](https://github.com/yisusturtle/Css-Components-Styled/tree/master/components/social-media-icons)
   
 

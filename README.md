@@ -8,7 +8,7 @@ My idea was to grow up my skills of webs layouts and also have components to reu
 * [Reto #1 ManzDev](#reto-1-manzdev-go)
 * [Credit card form](#credit-card-form)
 * [Custom team presentation](#custom-team-presentation)
-* [Social media icons effect]()
+* [Social media icons effect](#social-media-icons)
 
 
 <hr>

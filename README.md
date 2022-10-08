@@ -45,7 +45,7 @@ My idea was to grow up my skills of webs layouts and also have components to reu
   [Go to repo...](https://github.com/yisusturtle/Css-Components-Styled/tree/master/components/custom-team-presentation)
 
 * ### Social media icons
-  ![Custom-team-presentation-img](./img-repos/social-media-icons.gif)
+  ![Social-media-icons](./img-repos/social-media-icons.gif)
   <br>
   
   [Go to repo...](https://github.com/yisusturtle/Css-Components-Styled/tree/master/components/social-media-icons)

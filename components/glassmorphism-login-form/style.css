@@ -1,0 +1,167 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&family=Poppins:wght@400;500;600&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("./images/background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    overflow: hidden;
+}
+
+main {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.25);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(13px);
+    -webkit-backdrop-filter: blur(13px);
+    border-radius: 10px;
+}
+
+main h1 {
+    color: #000;
+    text-align: center;
+    padding: 20px 0;
+    border-bottom: 1px solid silver;
+}
+
+main form {
+    padding: 0 40px;
+    box-sizing: border-box;
+}
+
+form .input_wrapper {
+    position: relative;
+    border-bottom: 2px solid #ccc;
+    margin: 30px 0;
+}
+
+.input_wrapper input {
+    width: 100%;
+    padding: 0 5px;
+    height: 40px;
+    font-size: 16px;
+    border: none;
+    background: none;
+    outline: none;
+}
+
+.input_wrapper label {
+    position: absolute;
+    top: 50%;
+    left: 5px;
+    color: #ccc;
+    transform: translateY(-50%);
+    font-size: 16px;
+    pointer-events: none;
+    transition: 0.5s;
+}
+
+.input_wrapper span::before {
+    content: "";
+    position: absolute;
+    top: 40px;
+    left: 0;
+    width: 0%;
+    height: 2px;
+    background: #000;
+    transition: 0.5s;
+}
+
+.input_wrapper input:focus ~ label,
+.input_wrapper input:valid ~ label {
+    top: -5px;
+    color: #000;
+}
+
+.input_wrapper input:focus ~ span::before,
+.input_wrapper input:valid ~ span::before {
+    width: 100%;
+}
+
+.forgot_password {
+    margin: -5px 0 20px 5px;
+    color: #ccc;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.forgot_password:hover {
+    color: #000;
+}
+
+.signup_link {
+    margin: 30px 0;
+    text-align: center;
+    font-size: 16px;
+    color: #ccc;
+}
+
+.signup_link a {
+    color: #444;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.signup_link a:hover {
+    color: #000;
+}
+
+.login_btn {
+    border: 2px solid #ccc;
+    width: 70%;
+    z-index: 1;
+    color: #ccc;
+    padding: 15px 25px;
+    font-weight: 500;
+    font-size: 18px;
+    background: transparent;
+    outline: none !important;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    margin: 30px auto;
+    display: block;
+}
+
+.login_btn:after {
+    position: absolute;
+    content: "";
+    width: 0;
+    height: 100%;
+    top: 0;
+    left: 0;
+    direction: rtl;
+    z-index: -1;
+    background: #000;
+    transition: all 0.3s ease;
+}
+
+.login_btn:hover {
+    color: #ccc;
+    border-color: #000;
+}
+
+.login_btn:hover:after {
+    left: auto;
+    right: 0;
+    width: 100%;
+}
+
+.login_btn:active {
+    top: 2px;
+}
